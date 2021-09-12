@@ -1,5 +1,7 @@
 # CPSC-cschell-Tutorials-and-Examples
 
+<a href="https://mybinder.org/v2/gh/CPSC-1012/CPSC-cschell-Tutorials-and-Examples/main" target="_blank">Binder</a>
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CPSC-1012/CPSC-cschell-Tutorials-and-Examples/main){target="_blank"}
 
 ### Tutorials and Examples provided in Jupyter Notebooks (.NET kernel) and Codespaces.
