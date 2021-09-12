@@ -1,6 +1,8 @@
 # CPSC-cschell-Tutorials-and-Examples
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CPSC-1012/CPSC-cschell-Tutorials-and-Examples/main?urlpath=lab)
-Tutorials and Examples provided in Jupyter Notebooks (.NET kernel) and Codespaces.
+
+### Tutorials and Examples provided in Jupyter Notebooks (.NET kernel) and Codespaces.
 
 ## Instructions
 * To access the Jupyter Notebook in your browser:
