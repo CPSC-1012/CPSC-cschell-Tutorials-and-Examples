@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CPSC-1012/CPSC-cschell-Tutorials-and-Examples/main)
 _Recommend right-click to open in a new tab_
 
-### Tutorials and Examples provided in Jupyter Notebooks (.NET kernel) and Codespaces.
+### Tutorials and Examples provided in Jupyter Notebooks (.NET kernel).
 
 ## Instructions
 * To access the Jupyter Notebook in your browser:
